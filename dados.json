@@ -1,0 +1,17 @@
+[
+    {
+        "porte": "P",
+        "peso": 5,
+        "resultado": 50
+    },
+    {
+        "porte": "M",
+        "peso": 8,
+        "resultado": 160
+    },
+    {
+        "porte": "G",
+        "peso": 12,
+        "resultado": 360
+    }
+]
